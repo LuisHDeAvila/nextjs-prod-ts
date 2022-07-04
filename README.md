@@ -1,4 +1,6 @@
 # Aplicaciones Web (next js, typescript, y docker)
+
+
 Lenguaje de programacion: Typescript estricto.
 Configuracion inicial para producir aplicaciones web *serverless* (sin servidor backend).
 
